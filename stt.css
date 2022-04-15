@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    height: 80%;
+    background-image: url(./Bitcoin\ P2P-amico.svg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-attachment: fixed;
+}
+
+#container{
+    margin-left: 35em;
+    margin-right: 10em;
+    width: 50%;
+    height: 100vh;
+    padding: 10%;
+
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    margin-top: 1em;
+}
